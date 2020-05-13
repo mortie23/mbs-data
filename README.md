@@ -1,2 +1,4 @@
-# mbs-data
-Read in some MBS data and do time series analysis
+# MBS Data
+
+Analyse some MBS time series data
+
